@@ -7,11 +7,11 @@ Clone the repository to your local machine using `git clone`.
 
 ## Project Structure
 The repository is organized into separate folders, each representing a specific bike part. The main parts included are:
-- [Part 1: Front Fork](./front_fork)
-- [Part 2: Frame](./frame)
-- [Part 3: Wheel Assembly](./wheel_assembly)
-- [Part 4: Braking System](./braking_system)
-- [Part 5: Handlebars](./handlebars)
+- [Part 1: Front Fork]
+- [Part 2: Frame]
+- [Part 3: Wheel Assembly]
+- [Part 4: Braking System]
+- [Part 5: Handlebars]
 
 Each folder contains the SolidWorks project files, CAD drawings, and additional documentation related to the design process.
 
